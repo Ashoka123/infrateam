@@ -1,6 +1,4 @@
-  GNU nano 2.2.6              File: Dockerfile                        Modified  
-
-FROM ubuntu
+ FROM ubuntu
 
 MAINTAINER ashoka <ashoka.da@bizruntime.com>
 
